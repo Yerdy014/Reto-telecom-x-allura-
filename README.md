@@ -14,4 +14,5 @@ Identificar patrones de comportamiento en los clientes que ayudan a explicar la 
 ## 📂 Contenido del proyecto
 - **cuaderno_TelecomX_LATAM_completo.ipynb** → Cuaderno principal con todo el análisis.
 - **TelecomX_diccionario.md** → Diccionario de variables del dataset.
+- **TelecomX_Data** →  Archivo json utilizado para la creacion del data frame con pandas
 - **README
